@@ -25,7 +25,10 @@ Je suis un développeur passionné par l'**automatisation**, la **gestion de com
 ### 📊 Mes Statistiques GitHub
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Kadawatcha&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Kadawatcha" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kadawatcha&show_icons=true&theme=default&count_private=true&hide_border=false" alt="Stats de Kadawatcha" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadawatcha&layout=compact&theme=default&count_private=true" alt="Langages les plus utilisés" />
 </p>
 
 ---
