@@ -36,4 +36,4 @@ Je suis un développeur passionné par l'**automatisation**, la **gestion de com
 ### 📫 Me contacter
 - **Discord** : @kadawatcha
 - **Mail** : kadawatcha.dev@gmail.com
-- **GitHub** : Voir mon profil ;)
+- **GitHub** : Voir mes repos publics 
