@@ -22,7 +22,7 @@ Je suis un développeur passionné par l'**automatisation**, la **gestion de com
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 Statistiques
 
 <p align="left">
   <img src="assets/github-stats.svg" />
