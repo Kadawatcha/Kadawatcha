@@ -8,31 +8,46 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # --- ÉTAPE 1 : STATISTIQUES DE CONTRIBUTIONS (PROPRE & FR) ---
+      # --- ÉTAPE 1 : STATS GÉNÉRALES, PR, COMMITS ET REPO LE PLUS ACTIF ---
       - name: Statistiques Générales
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_STATS_TOKEN }}
           user: Kadawatcha
           template: classic
-          # 'header' pour ton profil, 'metadata' pour les chiffres (repos, PR, commits)
+          # 'header' pour le profil, 'metadata' pour les compteurs (Commits, PR, Repos)
           base: header, metadata
-          # On affiche tes lignes de code (1600+ commits)
+          
+          # --- TON REPO LE PLUS ACTIF (Celui avec le plus de commits récents) ---
+          plugin_habits: yes
+          plugin_habits_from: 200       # Analyse les 200 derniers événements
+          plugin_habits_facts: yes      # Affiche les faits (ex: "Most active repository")
+          plugin_habits_charts: no      # On désactive les graphiques pour rester propre
+          
+          # --- DÉTAILS DES CONTRIBUTIONS (PR & ISSUES) ---
+          plugin_followup: yes
+          plugin_followup_sections: user
+          
+          # --- DÉTAILS DES COMMITS ET LIGNES DE CODE ---
           plugin_lines: yes
+          
+          # --- INFOS SUR LES DEPOTS (PUBLIC/PRIVÉ) ---
+          plugin_repositories: yes
+          plugin_repositories_featured: ""
+          
           config_timezone: Europe/Paris
           output_action: commit
           filename: assets/github-stats.svg
 
-      # --- ÉTAPE 2 : LANGAGES LES PLUS UTILISÉS (AVEC HTML/CSS) ---
+      # --- ÉTAPE 2 : LANGAGES LES PLUS UTILISÉS ---
       - name: Langages les plus utilisés
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_STATS_TOKEN }}
           user: Kadawatcha
-          base: "" # On ne répète pas l'avatar ici
+          base: "" 
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          # On NE met PAS de 'ignored' pour garder HTML et CSS
           output_action: commit
           filename: assets/top-langs.svg
