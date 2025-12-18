@@ -1,41 +1,38 @@
 name: Update GitHub Stats
 on:
   schedule:
-    - cron: "0 2 * * *" # Tous les jours à 02:00
+    - cron: "0 15 * * *" # Tous les jours à 15:00 UTC
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # --- ÉTAPE 1 : TES STATS GÉNÉRALES (PROPRE) ---
-      - name: General Stats
+      # --- ÉTAPE 1 : STATISTIQUES DE CONTRIBUTIONS (PROPRE & FR) ---
+      - name: Statistiques Générales
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_STATS_TOKEN }}
           user: Kadawatcha
           template: classic
-          # On ne garde que l'entête (Avatar/Nom). On vire activity, community et repositories.
-          base: header
-          # On affiche ton gros volume de commits (1600+) de façon classe
+          # 'header' pour ton profil, 'metadata' pour les chiffres (repos, PR, commits)
+          base: header, metadata
+          # On affiche tes lignes de code (1600+ commits)
           plugin_lines: yes
-          # On remplace les "0 partout" par des badges de succès
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_display: compact
           config_timezone: Europe/Paris
           output_action: commit
           filename: assets/github-stats.svg
 
-      # --- ÉTAPE 2 : TES LANGAGES LES PLUS UTILISÉS ---
-      - name: Top Languages
+      # --- ÉTAPE 2 : LANGAGES LES PLUS UTILISÉS (AVEC HTML/CSS) ---
+      - name: Langages les plus utilisés
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_STATS_TOKEN }}
           user: Kadawatcha
-          base: "" # On enlève tout le reste pour n'avoir QUE les langages
+          base: "" # On ne répète pas l'avatar ici
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
+          # On NE met PAS de 'ignored' pour garder HTML et CSS
           output_action: commit
           filename: assets/top-langs.svg
