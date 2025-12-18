@@ -21,11 +21,12 @@ Je suis un développeur passionné par l'**automatisation**, la **gestion de com
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-### 📊 Statistiques
+### 📊 Mes Statistiques GitHub
 
 ![Mes Stats GitHub](./assets/github-stats.svg)
-![Mes Langages](./assets/top-langs.svg)
+
+<br/> ![Mes Langages](./assets/top-langs.svg)
+
 ---
 
 ### 📫 Me contacter
