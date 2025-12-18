@@ -15,19 +15,13 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
           user: Kadawatcha
           template: classic
-          # header : avatar/nom
-          # repositories : nb de repos publics et privés
-          # metadata : nb de commits, PR, et issues (chiffres bruts)
-          base: header, repositories, metadata
+          # base : header (avatar/nom), activity (commits/PRs), repositories (total repos/stockage), metadata (chiffres bruts)
+          base: header, activity, repositories, metadata
+          config_locale: fr
           
-          # --- REPO LE PLUS ACTIF ---
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: yes
-          plugin_habits_charts: no # Pas de graphique, juste le nom du repo
-          
-          # --- LIGNES DE CODE (OPTIONNEL MAIS VALORISANT) ---
-          plugin_lines: yes
+          # --- REPO LE PLUS IMPORTANT ---
+          plugin_repositories: yes
+          # Affiche les repos épinglés (pinned) par défaut, ce qui correspond aux "plus importants"
           
           config_timezone: Europe/Paris
           output_action: commit
