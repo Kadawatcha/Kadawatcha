@@ -1,31 +1,31 @@
 name: Update GitHub Stats
 on:
   schedule:
-    - cron: "0 15 * * *" # Tous les jours à 15:00 UTC (16h ou 17h en France)
-  workflow_dispatch:
+    - cron: "0 15 * * *" # Tous les jours à 15h UTC
+  workflow_dispatch: # Permet de le lancer manuellement
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      # --- ÉTAPE 1 : CHIFFRES CLÉS (COMMITS, PR, REPOS) ---
-      - name: Génération des statistiques de contributions
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_STATS_TOKEN }}
-          user: Kadawatcha
+          # Votre jeton GitHub (créé automatiquement par GitHub)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Paramètres de l'image
+          user: VOTRE_PSEUDO
           template: classic
-          # base : header (avatar/nom), activity (commits/PRs), repositories (total repos/stockage), metadata (chiffres bruts)
-          base: header, activity, repositories, metadata
-          config_locale: fr
+          base: header, community, repositories, metadata
           
-          # --- REPO LE PLUS IMPORTANT ---
-          plugin_repositories: yes
-          # Affiche les repos épinglés (pinned) par défaut, ce qui correspond aux "plus importants"
-          
-          config_timezone: Europe/Paris
-          output_action: commit
+          # Emplacement de l'image (doit correspondre à votre README)
           filename: assets/github-stats.svg
+          
+          # Configuration du commit
+          config_timezone: Europe/Paris
+          committer_gist: ${{ github.repository_owner }}
 
       # --- ÉTAPE 2 : LANGAGES LES PLUS UTILISÉS ---
       - name: Génération du graphique des langages
