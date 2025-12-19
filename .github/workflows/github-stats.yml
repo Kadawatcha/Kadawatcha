@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Paramètres de l'image
-          user: VOTRE_PSEUDO
+          user: Kadawatcha
           template: classic
           base: header, community, repositories, metadata
           
