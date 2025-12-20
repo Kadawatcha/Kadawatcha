@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Votre jeton GitHub (créé automatiquement par GitHub)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Utilisation du jeton personnel pour inclure les repos privés
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
           # Paramètres de l'image
           user: Kadawatcha
