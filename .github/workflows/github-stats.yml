@@ -19,6 +19,8 @@ jobs:
           user: Kadawatcha
           template: classic
           base: header, community, repositories, metadata
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           
           # Emplacement de l'image (doit correspondre à votre README)
           filename: assets/github-stats.svg
