@@ -12,6 +12,7 @@ Je suis un développeur passionné par l'**automatisation**, la **gestion de com
 - **Architecture** : Structure modulaire en *Cogs*, gestion des shards pour la performance, et système de logs avancé
 
 ---
+*J'ai principalement appris grâce à l'intelligence artificielle, bien que je m'efforce aujourd'hui de m'en détacher et devenir le plus possible autodidacte ; )*
 ### 🛠 Compétences & Outils
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
