@@ -4,7 +4,7 @@ Je suis un développeur passionné par l'**automatisation**, la **gestion de com
 
 ---
 
-### 🤖 Mon projet principal : Alt-F4
+### 🤖 Mon projet principal : [Alt-F4](https://discord.com/oauth2/authorize?client_id=1326592347852640390)
 
 **Alt-F4** est un bot Discord polyvalent conçu pour simplifier la modération et l'engagement communautaire
 - **Impact** : Ajouté sur plus de **300 serveurs**
