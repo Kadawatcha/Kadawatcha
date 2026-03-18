@@ -35,4 +35,3 @@ Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code :
 ### 📫 Me contacter
 - **Discord** : @kadawatcha
 - **Mail** : kadawatcha.dev@gmail.com
-- **GitHub** : Voir mes repos publics 
