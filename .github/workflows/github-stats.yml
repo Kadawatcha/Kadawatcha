@@ -1,7 +1,7 @@
 name: Update GitHub Stats
 on:
   schedule:
-    - cron: "0 15 * * *" # Tous les jours à 15h UTC
+    - cron: "0 8 * * *" # Tous les jours à 8h UTC
   workflow_dispatch: # Permet de le lancer manuellement
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
           
-          # Emplacement de l'image (doit correspondre à votre README)
+          # emplacement img 
           filename: assets/github-stats.svg
           
           # Configuration du commit
