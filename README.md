@@ -1,6 +1,6 @@
 # Kadawatcha en bref :
 
-Je suis un développeur du dimanche si on peut dire ça comme ça, je code quand l'envie m'en prend et quand j'ai le temps dispo
+Je suis un développeur du dimanche si on peut dire ça comme ça. Je code quand l'envie m'en prend et quand j'ai le temps dispo
 
 Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code : 
 
