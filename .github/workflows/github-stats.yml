@@ -20,7 +20,9 @@ jobs:
           template: classic
           base: header, repositories, metadata
           
-          base_indepth: yes
+          base_indepth: yes 
+          
+          # AJOUT : Affiche le détail des commits et lignes de code
           plugin_lines: yes
           
           plugin_introduction: yes
