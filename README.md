@@ -1,15 +1,16 @@
-# Hello ! Moi c'est Kadawatcha 👋
+# Kadawatcha en bref :
 
-Je suis un développeur passionné par l'**automatisation**, la **gestion de communautés** et l'**Intelligence Artificielle**. Je consacre mon temps libre à developper "mon petit protégé" : 
+Je suis un développeur du dimmanche si on peut dire ça comme ça, je code quand l'envie m'en prend et quand j'ai le temps dispo
+Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code : 
 
 ---
 
-### 🤖 Mon projet principal : [Alt-F4](https://discord.com/oauth2/authorize?client_id=1326592347852640390)
+### 💙 Mon projet principal : [Alt-F4](https://discord.com/oauth2/authorize?client_id=1326592347852640390)
 
-**Alt-F4** est un bot Discord polyvalent conçu pour simplifier la modération et l'engagement communautaire
-- **Impact** : Ajouté sur plus de **300 serveurs**
-- **Technos** : Python (discord.py), SQLite (asynchrone), API Gemini (IA)
-- **Architecture** : Structure modulaire en *Cogs*, gestion des shards pour la performance, et système de logs avancé
+**Alt-F4** est un bot Discord polyvalent conçu pour simplifier la modération et la personnalisation des communautées
+- **Impact** : Ajouté sur plus de **400 serveurs**
+- **Technos** : Python (discord.py), SQLite (asynchrone), ~API Gemini (IA)~ (ne sert plus malheureusement)
+- **Architecture** : Structure modulaire en *Cogs*, gestion des shards pour la performance, et système de logs
 
 ---
 *J'ai principalement appris grâce à l'intelligence artificielle, bien que je m'efforce aujourd'hui de m'en détacher et devenir le plus possible autodidacte ; )*
