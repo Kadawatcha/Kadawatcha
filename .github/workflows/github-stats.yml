@@ -19,14 +19,9 @@ jobs:
           user: Kadawatcha
           template: classic
           base: header, repositories, metadata
-          
-          base_indepth: yes 
-          
-          # AJOUT : Affiche le détail des commits et lignes de code
-          plugin_lines: yes
-          
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+
+          plugin_followup: yes
+          plugin_followup_sections: user
           
           # emplacement img 
           filename: assets/github-stats.svg
