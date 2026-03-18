@@ -19,9 +19,6 @@ jobs:
           user: Kadawatcha
           template: classic
           base: header, repositories, metadata
-
-          plugin_followup: yes
-          plugin_followup_sections: user
           
           # emplacement img 
           filename: assets/github-stats.svg
