@@ -19,6 +19,7 @@ jobs:
           user: Kadawatcha
           template: classic
           base: header, repositories, metadata
+          base_indepth: yes # affichage des commits 
           plugin_introduction: yes
           plugin_introduction_title: yes
           
