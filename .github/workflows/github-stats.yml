@@ -18,7 +18,7 @@ jobs:
           # Paramètres de l'image
           user: Kadawatcha
           template: classic
-          base: header, community, repositories, metadata
+          base: header, repositories, metadata
           plugin_introduction: yes
           plugin_introduction_title: yes
           
