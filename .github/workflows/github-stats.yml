@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header, repositories, metadata
           base_indepth: yes # affichage des commits 
+          plugin_followup: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           
