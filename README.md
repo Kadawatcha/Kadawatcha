@@ -32,7 +32,7 @@ Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code :
 
 ---
 
-*Note : certains repos ont des commits 100% signés par google labs jules bot, ce sont des repos ou je me suis aidé de cet agent IA ou que j'ai totalement codé avec pour des besoins sur des projets plus gros necessitant rapidement un code*
+*Note : Les repos SQLite-Viewer-Editor et GP-Metadata-Linker on étés en grande partie générés par IA*
 
 ### 📫 Me contacter
 - **Discord** : @kadawatcha
