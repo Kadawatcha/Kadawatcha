@@ -14,12 +14,14 @@ Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code :
 - **Architecture** : Structure modulaire en *Cogs*, gestion des shards pour la performance, et système de logs
 
 ---
+
 *J'ai principalement appris grâce à l'intelligence artificielle, bien que je m'efforce aujourd'hui de m'en détacher et devenir le plus possible autodidacte ; )*
+
 ---
 
 ### 🛠 Compétences & Outils
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
