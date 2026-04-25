@@ -41,7 +41,7 @@ Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code :
 
 ---
 
-*Note : Les repos SQLite-Viewer-Editor et GP-Metadata-Linker on étés en grande partie générés par IA*
+*Note : Le repo SQLite-Viewer-Editor à été grande partie généré par IA*
 
 ### 📫 Me contacter
 - **Discord** : @kadawatcha
