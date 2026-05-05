@@ -33,6 +33,7 @@ Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code :
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
+
 ### 📊 Mes Statistiques GitHub
 
 ![Mes Stats GitHub](./assets/github-stats.svg)
