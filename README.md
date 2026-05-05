@@ -9,7 +9,7 @@ Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code :
 ### 💙 Mon projet principal : [Alt-F4](https://discord.com/oauth2/authorize?client_id=1326592347852640390)
 
 **Alt-F4** est un bot Discord polyvalent conçu pour simplifier la modération et la personnalisation des communautées
-- **Impact** : Ajouté sur plus de **400 serveurs**
+- **Impact** : Ajouté sur plus de **500 serveurs**
 - **Technos** : Python (discord.py), SQLite (asynchrone), ~API Gemini (IA)~ (ne sert plus malheureusement)
 - **Architecture** : Structure modulaire en *Cogs*, gestion des shards pour la performance, et système de logs
 
@@ -42,6 +42,8 @@ Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code :
 ---
 
 *Note : Le repo SQLite-Viewer-Editor à été grande partie généré par IA*
+
+**Je me lance dans le Kotlin et le développement d'application android ; )**
 
 ### 📫 Me contacter
 - **Discord** : @kadawatcha
