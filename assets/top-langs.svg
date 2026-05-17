@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.8274959453392" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="427.8274959453392" y="0" width="17.52392326229914" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.35141920763834" y="0" width="7.655169043466574" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="453.0065882511049" y="0" width="4.1156105204321305" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.12219877153706" y="0" width="2.877801228462955" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.8670486022135" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="427.8670486022135" y="0" width="17.502379470659296" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.3694280728728" y="0" width="7.645757830898951" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.01518590377174" y="0" width="4.1105508169515925" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.1257367207233" y="0" width="2.874263279276641" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -59,7 +59,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>0.63%</div>
+                                <div>0.62%</div>
                             </small>
                         </div>
                     </section>
@@ -72,7 +72,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>3.81%</div>
+                                <div>3.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
