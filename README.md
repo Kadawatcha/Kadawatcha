@@ -2,20 +2,18 @@
 
 Je suis un développeur du dimanche si on peut dire ça comme ça. Je code quand l'envie m'en prend et quand j'ai du temps dispo
 
-Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code : 
-
+Voici mon principal projet auquel j'ai consacré et je consacre toujours une grande partie de mon temps
 ---
 
 ### 💙 Mon projet principal : [Alt-F4](https://discord.com/oauth2/authorize?client_id=1326592347852640390)
 
 **Alt-F4** est un bot Discord polyvalent conçu pour simplifier la modération et la personnalisation des communautées
-- **Impact** : Ajouté sur plus de **500 serveurs**
+- **Impact** : Ajouté sur plus de **550 serveurs**
 - **Technos** : Python (discord.py), SQLite (asynchrone), ~API Gemini (IA)~ (ne sert plus malheureusement)
-- **Architecture** : Structure modulaire en *Cogs*, gestion des shards pour la performance, et système de logs
-
+- **Architecture** : Inspiration MVC L'interface utilisateur (boutons, menus déroulants, modales) est totalement découplée de la logique métier grâce à un dossier views/ dédié
 ---
 
-*J'ai principalement appris grâce à l'intelligence artificielle, bien que je m'efforce aujourd'hui de m'en détacher et devenir le plus possible autodidacte ; )*
+*J'ai principalement appris et j'apprends toujours avec l'intelligence artificielle, bien que je m'efforce aujourd'hui de m'en détacher et devenir le plus possible autodidacte ; )*
 
 ---
 
@@ -47,5 +45,4 @@ Voici mon principal projet auquel je consacre 99% de mon temps sur VS Code :
 **Je me lance dans le Kotlin et le développement d'application android ; )**
 
 ### 📫 Me contacter
-- **Discord** : @kadawatcha
 - **Mail** : kadawatcha.dev@gmail.com
