@@ -8,7 +8,7 @@ Voici mon principal projet auquel j'ai consacré et je consacre toujours une gra
 ### 💙 Mon projet principal : [Alt-F4](https://discord.com/oauth2/authorize?client_id=1326592347852640390)
 
 **Alt-F4** est un bot Discord polyvalent conçu pour simplifier la modération et la personnalisation des communautées
-- **Impact** : Ajouté sur plus de **550 serveurs**
+- **Impact** : Ajouté sur plus de **600 serveurs**
 - **Technos** : Python (discord.py), SQLite (asynchrone), ~API Gemini (IA)~ (ne sert plus malheureusement)
 - **Architecture** : Inspiration MVC L'interface utilisateur (boutons, menus déroulants, modales) est totalement découplée de la logique métier grâce à un dossier views/ dédié
 ---
