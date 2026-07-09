@@ -37,7 +37,7 @@ En tant que grand fan d'Android, j'ai décidé d'apprendre à développer des ap
 
 ### ℹ️ Apprentissage
 
-J'apprends en me basant sur des ressources en ligne et l'IA qui me fait gagner du temps dans la compréhension des concepts. Je m'appuie toujours sur l'Open Source tout en essayant d'éviter de tomber dans le copier-coller sans comprendre 🫨
+J'apprends en me basant sur des ressources en ligne et l'IA qui me fait gagner du temps dans la compréhension des concepts. Je m'appuie toujours sur l'Open Source tout en essayant d'éviter de tomber dans le copier-coller sans comprendre 🫨 #vibe coding 
 
 ---
 
