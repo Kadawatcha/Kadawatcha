@@ -9,16 +9,15 @@ Je code régulièrement sur des projets personnels pour améliorer mes compéten
 ### 🛠 Compétences & Outils
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <br><br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br><br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/ssh-%23000000.svg?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
 ### 📊 Mes Statistiques GitHub
@@ -37,7 +36,7 @@ En tant que grand fan d'Android, j'ai décidé d'apprendre à développer des ap
 
 ### ℹ️ Apprentissage
 
-J'apprends en me basant sur des ressources en ligne et l'IA qui me fait gagner du temps dans la compréhension des concepts. Je m'appuie toujours sur l'Open Source tout en essayant d'éviter de tomber dans le copier-coller sans comprendre 🫨 #vibe coding 
+J'apprends en me basant sur des ressources en ligne et l'IA qui me fait gagner du temps dans la compréhension des concepts. Je m'appuie toujours sur l'Open Source tout en essayant d'éviter de tomber dans le copier-coller sans comprendre 🫨
 
 ---
 
