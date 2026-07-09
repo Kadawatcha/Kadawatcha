@@ -1,6 +1,8 @@
 # Kadawatcha en bref :
 
-Je suis un développeur passionné par la programmation. Je code régulièrement sur des projets personnels pour approfondir mes compétences et explorer de nouvelles technologies.
+Je suis un développeur passionné par la programmation.
+
+Je code régulièrement sur des projets personnels pour améliorer compétences et explorer de nouvelles technologies et surtout pour le plaisir !
 
 ---
 
@@ -29,11 +31,15 @@ Je suis un développeur passionné par la programmation. Je code régulièrement
 
 ### 🎯 En cours d'apprentissage
 
-**Kotlin et développement d'applications Android** - Exploration des frameworks modernes et des bonnes pratiques de développement mobile.
+**Kotlin et développement d'applications Android**
 
-### 📝 Approche d'apprentissage
+- En tant que grand fan d'Android je me sentais obligé d'apprendre a développer des applications en jetpack compose. Cela prend du temps et beaucoup de patience mais le rendu au fur a mesure est exceptionnel 
 
-J'ai principalement appris en utilisant les ressources disponibles en ligne, et je m'efforce de devenir de plus en plus autodidacte en creusant les concepts fondamentaux et les meilleures pratiques du développement.
+### ℹ️ Apprentissage
+
+Au départ je me suis basé sur les forums en ligne. Aujourd'hui je me base sur l'IA qui fait gagner un temps fou pour lire des documentations
+
+Même si bien évidemment je me base toujours sur l'Open Source tout en m'efforcant de ne pas sombrer dans le vibe coding 🫨
 
 ---
 
