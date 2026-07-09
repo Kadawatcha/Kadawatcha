@@ -17,9 +17,10 @@ Je code régulièrement sur des projets personnels pour améliorer mes compéten
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white" alt="SSH" />
 </p>
 
-### 📊 Mes Stats GitHub
+### 📊 Mes Statistiques GitHub
 
 ![Mes Stats GitHub](./assets/github-stats.svg)
 
