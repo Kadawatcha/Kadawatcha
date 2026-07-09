@@ -2,7 +2,7 @@
 
 Je suis un développeur passionné par la programmation.
 
-Je code régulièrement sur des projets personnels pour améliorer compétences et explorer de nouvelles technologies et surtout pour le plaisir !
+Je code régulièrement sur des projets personnels pour améliorer mes compétences, explorer de nouvelles technologies et surtout pour le plaisir !
 
 ---
 
@@ -33,13 +33,11 @@ Je code régulièrement sur des projets personnels pour améliorer compétences 
 
 **Kotlin et développement d'applications Android**
 
-- En tant que grand fan d'Android je me sentais obligé d'apprendre a développer des applications en jetpack compose. Cela prend du temps et beaucoup de patience mais le rendu au fur a mesure est exceptionnel 
+En tant que grand fan d'Android, j'ai décidé d'apprendre à développer des applications avec Jetpack Compose. C'est du travail et ça demande de la patience, mais le rendu au fur et à mesure en vaut vraiment la peine !
 
 ### ℹ️ Apprentissage
 
-Au départ je me suis basé sur les forums en ligne. Aujourd'hui je me base sur l'IA qui fait gagner un temps fou pour lire des documentations
-
-Même si bien évidemment je me base toujours sur l'Open Source tout en m'efforcant de ne pas sombrer dans le vibe coding 🫨
+J'apprends en me basant sur des ressources en ligne et l'IA qui me fait gagner du temps dans la compréhension des concepts. Je m'appuie toujours sur l'Open Source tout en essayant d'éviter de tomber dans le copier-coller sans comprendre 🫨
 
 ---
 
