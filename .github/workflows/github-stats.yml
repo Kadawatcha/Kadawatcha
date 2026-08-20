@@ -37,6 +37,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          # On garde tout (HTML et CSS inclus)
+          plugin_languages_skipped: Logiciel-Ender3-Pro
           output_action: commit
           filename: assets/top-langs.svg
