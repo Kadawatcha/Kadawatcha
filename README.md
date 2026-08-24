@@ -30,7 +30,7 @@ En tant que grand fan d'Android, j'ai décidé d'apprendre à développer des ap
 
 J'apprends en me basant sur des ressources en ligne et l'IA qui me fait gagner du temps dans la compréhension des concepts. 
 
-Pour moi l'IA est un outil absolument génial qui permet de comprendre des concepts compliqués, de découvrir de nouveaux horizons du code... Mais son gros problème est ce qu'on en fait et surtout les limites qu'on se pose : l'utiliser oui mais ne pas en abuser pour tomber dans le **vibe coding** 
+Pour moi l'IA est un outil absolument génial qui permet de comprendre de nombreuses pratiques, de découvrir de nouveaux horizons du code... Mais son gros problème est ce qu'on en fait et surtout les limites qu'on se pose : l'utiliser oui mais ne pas en abuser pour tomber dans le **vibe coding** 
 
 ---
 
