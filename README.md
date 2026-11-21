@@ -1,8 +1,6 @@
 # Kad en bref :
 
-Développeur passionné par la programmation.
-
-Je code pour le plaisir d'un travail propre et fonctionnel qui répond à une attente. Quelles soient de mes propres projets ou pour une communautée
+Développeur passionné par la programmation qui code pour le plaisir.
 
 ---
 
